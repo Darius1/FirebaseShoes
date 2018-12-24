@@ -1,0 +1,24 @@
+{
+  "name": "firebaseshoes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "^5.7.1",
+    "npm": "^6.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darius1/FirebaseShoes.git"
+  },
+  "author": "Darius McFarland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darius1/FirebaseShoes/issues"
+  },
+  "homepage": "https://github.com/Darius1/FirebaseShoes#readme"
+}
