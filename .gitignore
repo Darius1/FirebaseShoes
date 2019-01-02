@@ -1,1 +1,10 @@
 node_modules/
+functions/
+public/
+.firebaserc
+database.rules.json
+firebase-debug.log
+firebase.json
+package-lock.json
+package.json
+y
